@@ -1,9 +1,9 @@
-👋 Hola, soy @andyholes
+👋🏻 Hola, soy Andrés! Desarrollador Backend Java Trainee
 
-📚 Soy un estudiante de programacion cursando el 2do cuatrimestre del primer año de Analista Programador (UNLP) y estudio Desarrollo Backend Java en OpenBootcamp de forma asincrona.
+💻 Me encuentro en búsqueda de una empresa que quiera apostar a un perfil trainee sin experiencia formal pero con muchas ganas de aprender, emprender proyectos y dar lo mejor de sí mismo.
 
-💻 Actualmente me encuentro en la busqueda de mi primera experiencia laboral como desarrollador web backend para aplicar los conocimientos adquiridos a través de mi formación universitaria y autodidacta, incorporar nuevas habilidades y continuar mi aprendizaje.
+📚 Soy estudiante de Analista Programador Universitario en la UNLP (Completa al 35%), estudio Desarrollo Backend Java en Open-Bootcamp.com y realizo cursos y proyectos independientes.
 
-🧠 De mis aptitudes personales destaco la constancia, la empatía, el pensamiento crítico y las ganas de seguir aprendiendo como pilares fundamentales.
+💪🏻 De mis aptitudes personales destaco la constancia, la empatía, el pensamiento crítico y las ganas de seguir aprendiendo como pilares fundamentales.
 
 ✨ Te invito a ver mis proyectos freelance
