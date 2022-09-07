@@ -5,5 +5,3 @@
 📚 Soy estudiante de Analista Programador Universitario en la UNLP (Completa al 35%), estudio Desarrollo Backend Java en Open-Bootcamp.com y realizo cursos y proyectos independientes.
 
 💪🏻 De mis aptitudes personales destaco la constancia, la empatía, el pensamiento crítico y las ganas de seguir aprendiendo como pilares fundamentales.
-
-✨ Te invito a ver mis proyectos freelance
