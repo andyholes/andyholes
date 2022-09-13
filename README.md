@@ -1,7 +1,9 @@
-👋🏻 Hola, soy Andrés! Desarrollador Backend Java Trainee
+## 👋🏻 Hola, soy Andrés! Desarrollador Backend Java
 
-💻 Me encuentro en búsqueda de una empresa que quiera apostar a un perfil trainee sin experiencia formal pero con muchas ganas de aprender, emprender proyectos y dar lo mejor de sí mismo.
+💼 Me encuentro en búsqueda de una empresa que quiera apostar a un perfil con muchas ganas de crecer y dar lo mejor de sí mismo para aportar a un equipo de desarrollo eficiente.
 
-📚 Soy estudiante de Analista Programador Universitario en la UNLP (Completa al 35%), estudio Desarrollo Backend Java en Open-Bootcamp.com y realizo cursos y proyectos independientes.
+💻 Actualmente soy parte del programa de Aceleraciones de Alkemy, donde pongo a prueba mis habilidades en un entorno de trabajo simulado para convertirme en un perfil "Job-Ready"
 
-💪🏻 De mis aptitudes personales destaco la constancia, la empatía, el pensamiento crítico y las ganas de seguir aprendiendo como pilares fundamentales.
+📚 También estoy estudiando de Analista Programador Universitario en la UNLP (Completa al 35%), me especialice en Desarrollo Backend Java a través de bootcamps y realizo cursos y proyectos independientes.
+
+💪🏻 De mis aptitudes personales destaco la constancia, el pensamiento crítico y la atención al detalle como pilares fundamentales. Me considero una persona con facilidad para el aprendizaje y autodidacta
