@@ -1,9 +1,13 @@
-### 👋🏻 Hola, soy Andrés! Desarrollador Backend Java
+### 👋🏻 Hello! I'm Andres Hoyos Garcia
 
-💼 Me encuentro en búsqueda de una empresa que quiera apostar a un perfil con muchas ganas de crecer y dar lo mejor de sí mismo para aportar a un equipo de desarrollo eficiente.
+📆 In 2019 I graduated as a Surveyor Engineer at the National University of La Plata, and after being doing this job for two years, in 2021 I made the decision to study "Programmer Analyst" at the Faculty of Informatics and took my first steps in programming.
 
-💻 Actualmente soy parte del programa de Aceleraciones de Alkemy, donde pongo a prueba mis habilidades en un entorno de trabajo simulado para convertirme en un perfil "Job-Ready"
+☕️ In 2022, with the fundamentals that I obtained from the first year of college, I began to delve into web development and opted for the backend path. I took REST API development courses and bootcamps with Java and Spring.
 
-📚 También estoy estudiando de Analista Programador Universitario en la UNLP (Completa al 35%), me especialice en Desarrollo Backend Java a través de bootcamps y realizo cursos y proyectos independientes.
+🧠 I am currently in my 2nd year of college and studying the Angular Framework on my own to be able to consume the endpoints of my APIs with my own frontend developments, and to be able to develop applications in an integral way following the Model View Controller pattern.
 
-💪🏻 De mis aptitudes personales destaco la constancia, el pensamiento crítico y la atención al detalle como pilares fundamentales. Me considero una persona con facilidad para el aprendizaje y autodidacta
+💼 If you are interested in my profile feel free to contact me and we will arrange an interview!
+
+Contact:
+andyholesdev@gmail.com
+www.linkedin.com/in/andreshoyosgarcia
