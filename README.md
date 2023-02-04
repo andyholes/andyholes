@@ -1,4 +1,4 @@
-#### 👋🏻 Hello! I'm Andres Hoyos Garcia
+### 👋🏻 Hello! I'm Andres Hoyos Garcia
 
 📆 In 2019 I graduated as a Surveyor Engineer at the National University of La Plata, and after being doing this job for two years, in 2021 I made the decision to study "Programmer Analyst" at the Faculty of Informatics and took my first steps in programming.
 
