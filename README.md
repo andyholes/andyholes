@@ -9,5 +9,5 @@
 💼 If you are interested in my profile feel free to contact me and we will arrange an interview!
 
 [Linkedin](https://www.linkedin.com/in/andreshoyosgarcia/) | 
-[Portfolio](https://andyholes.me) | 
+[Portfolio](https://andyholes.xyz) | 
 [Email me!](mailto:andyholesdev@gmail.com)
