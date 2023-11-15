@@ -1,10 +1,10 @@
 ### 👋🏻 Hello! I'm Andres Hoyos Garcia
 
-📆 In 2019 I graduated as a Surveyor Engineer at the National University of La Plata, and after being doing this job for two years, in 2021 I made the decision to study "Programmer Analyst" at the Faculty of Informatics and took my first steps in programming.
+🚀 I entered the field of web development at the beginning of 2023. Since then I have participated in various projects that have allowed me to refine my technical skills and make a valuable contribution to my company, always focusing on the user experience and the requirements of the customer. I achieve this by paying special attention to the optimization of functionalities, always looking for ways to improve their performance.
 
-☕️ In 2022, with the fundamentals that I obtained from the first year of college, I began to delve into web development and opted for the backend path. I took REST API development courses and bootcamps with Java and Spring.
+💡 In my experience I have also had the opportunity to strengthen my soft skills by participating in multidisciplinary teams, maintaining effective communication and working with agility.
 
-🧠 I am currently in my 2nd year of college, learning how to implement microservices architecture with Java and Spring Cloud, and studying the Angular Framework on my own to better understand how the endpoints of my frontend APIs are consumed.
+🌱 For my future I hope to explore new challenges, and continue contributing to the success of web projects as I grow in the field of web development and discover new technologies.
 
 💼 If you are interested in my profile feel free to contact me and we will arrange an interview!
 
